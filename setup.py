@@ -7,6 +7,7 @@ setup(
     name='lkinterface',
     version='0.1',
     description='LavKode interfaces',
+    long_description='LavKode interfaces',
     author='muthugit',
     author_email='base.muthupandian@gmail.com',
     url='https://muthupandian.in',
