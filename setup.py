@@ -5,7 +5,7 @@ sys.path[0:0] = ['src/gscrud']
 
 setup(
     name='lkinterface',
-    version='0.1',
+    version='0.3',
     description='LavKode interfaces',
     long_description='LavKode interfaces',
     author='muthugit',
